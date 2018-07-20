@@ -13,15 +13,15 @@
         "warningColor": "#b2ccd2",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Greyscale_Basic_Regular",
+        "display1Font": "Greyscale_Basic_Bold",
         "display1Size": "3.8",
-        "display2Font": "CaviarDreams_Bold",
+        "display2Font": "Greyscale_Basic_Regular",
         "display2Size": 3,
-        "display5Font": "CaviarDreams_Bold",
+        "display5Font": "Greyscale_Basic_Regular",
         "display5Size": "1.5",
-        "display7Font": "CaviarDreams_Bold",
+        "display7Font": "Greyscale_Basic_Regular",
         "display7Size": 1,
-        "display4Font": "CaviarDreams_Bold",
+        "display4Font": "Greyscale_Basic_Regular",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -75,6 +75,12 @@
         "name": "Greyscale_Basic_Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Greyscale_Basic_Regular/font.ttf"
+      },
+      {
+        "css": "'Greyscale_Basic_Bold'",
+        "name": "Greyscale_Basic_Bold",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Greyscale_Basic_Bold/font.ttf"
       }
     ],
     "uniqCompNum": 16,
