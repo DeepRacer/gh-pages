@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "18-07-24_3DC",
+    "name": "18-07-24_3DC_2",
     "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
@@ -88,7 +88,7 @@
     "uniqCompNum": 71,
     "versionPublish": "4.8.1",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "screenshot": "screenshot.png"
   },
   "pages": {
