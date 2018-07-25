@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "18-07-24_DeepRacing_v2",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1140,7 +1140,7 @@
               "color": "#55b4d4"
             },
             "DIV": {
-              "color": "#55b4d4"
+              "color": "#ff3366"
             },
             ".mbr-section-subtitle DIV": {
               "text-align": "left",
