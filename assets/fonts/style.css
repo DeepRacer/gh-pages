@@ -1,8 +1,8 @@
 @font-face {
-   font-family: 'Greyscale_Basic_Bold';
-   src: url('Greyscale_Basic_Bold/font.ttf');
+   font-family: 'font';
+   src: url('font/font.ttf');
 }
 @font-face {
-   font-family: 'Greyscale_Basic_Regular';
-   src: url('Greyscale_Basic_Regular/font.ttf');
+   font-family: 'Greyscale_Regular';
+   src: url('Greyscale_Regular/font.ttf');
 }
