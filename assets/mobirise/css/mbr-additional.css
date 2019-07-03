@@ -1694,7 +1694,12 @@ body {
 .cid-qYPm4gnkfz .navbar-collapse {
   flex-basis: auto;
 }
+.cid-rvbr7w9VJw H1 {
+  color: #53d4ff;
+}
 .cid-rvb6RGMYWN {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #000000;
 }
 .cid-rvb6RGMYWN .media-container-row {
@@ -1721,9 +1726,6 @@ body {
 .cid-rvb6RGMYWN H1 {
   text-align: center;
   color: #767676;
-}
-.cid-rvbr7w9VJw H1 {
-  color: #53d4ff;
 }
 .cid-qZXON7iF7i {
   padding-top: 0px;
