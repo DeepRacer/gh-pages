@@ -1702,15 +1702,9 @@ body {
   padding-bottom: 120px;
   background-color: #000000;
 }
-.cid-rvb6RGMYWN .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-rvb6RGMYWN .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
