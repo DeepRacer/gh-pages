@@ -1309,29 +1309,31 @@ body {
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.cid-rvb6RGMYWN {
+.cid-rvbxqvUwHC {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #000000;
+  background-image: url("../../../assets/images/deepracingridecell-auroai.jpg");
+}
+.cid-rvbxqvUwHC .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-rvb6RGMYWN .mbr-figure {
+  .cid-rvbxqvUwHC .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rvb6RGMYWN .mbr-figure {
+  .cid-rvbxqvUwHC .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rvb6RGMYWN .mbr-text {
+  .cid-rvbxqvUwHC .mbr-text {
     text-align: center;
   }
-}
-.cid-rvb6RGMYWN H1 {
-  text-align: center;
-  color: #767676;
 }
 .cid-qYPm4gnkfz .navbar {
   padding: .5rem 0;
