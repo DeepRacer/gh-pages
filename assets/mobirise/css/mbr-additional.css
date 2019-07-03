@@ -1305,6 +1305,10 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #000000;
 }
+.cid-qBmkcdR9RP {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
 .cid-qYPm4gnkfz .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -1690,9 +1694,35 @@ body {
 .cid-qYPm4gnkfz .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qBmkcdR9RP {
-  padding-top: 0px;
-  padding-bottom: 60px;
+.cid-rvb6RGMYWN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-rvb6RGMYWN .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rvb6RGMYWN .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rvb6RGMYWN .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rvb6RGMYWN .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rvb6RGMYWN H1 {
+  text-align: center;
+  color: #767676;
 }
 .cid-qZXON7iF7i {
   padding-top: 0px;
@@ -1702,11 +1732,11 @@ body {
 .cid-qZXON7iF7i .testimonial-text {
   font-style: italic;
   font-weight: 300;
-  color: #c1c1c1;
+  color: #53d4ff;
 }
 .cid-qZXON7iF7i .mbr-author-name {
   font-weight: bold;
-  color: #55b4d4;
+  color: #767676;
 }
 .cid-qZXON7iF7i .media-container-row {
   word-wrap: break-word;
@@ -1722,8 +1752,8 @@ body {
   color: #c1c1c1;
 }
 .cid-qBmnic8KA1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .cid-qBmnic8KA1 H2 {
   text-align: center;
