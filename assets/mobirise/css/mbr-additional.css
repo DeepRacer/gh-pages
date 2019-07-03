@@ -1294,6 +1294,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #000000;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #000000;
+}
 .cid-qYPm4gnkfz .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -1716,17 +1727,6 @@ body {
 }
 .cid-qBmnic8KA1 H2 {
   text-align: center;
-}
-.cid-raM5xdLy61 SPAN {
-  color: #53d4ff;
-}
-.cid-raM5xdLy61 .mbr-text,
-.cid-raM5xdLy61 .mbr-section-btn {
-  color: #53d4ff;
-}
-.cid-raM5xdLy61 .mbr-text,
-.cid-raM5xdLy61 .mbr-section-btn B {
-  color: #ffffff;
 }
 .cid-raLgxbcZKv {
   padding-top: 75px;
